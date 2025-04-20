@@ -47,12 +47,12 @@ i powinna zostać napisana w języku Kotlin. Oparta powinna zostać na framework
 autoryzacji powinien być singletonem.
 
 :white_check_mark: 3.0 Należy stworzyć jeden kontroler wraz z danymi wyświetlanymi z
-listy na endpoint’cie w formacie JSON - Kotlin + Spring Boot
+listy na endpoint’cie w formacie JSON - Kotlin + Spring Boot [Link do commita](https://github.com/mario343/proj-obiektowe/commit/cbad346936cbc1a5d4ad4bb3d6c038f4b66f5dc9)
 
 :white_check_mark: 3.5 Należy stworzyć klasę do autoryzacji (mock) jako Singleton w
-formie eager
+formie eager [Link do commita](https://github.com/mario343/proj-obiektowe/commit/cbad346936cbc1a5d4ad4bb3d6c038f4b66f5dc9)
 
-:white_check_mark: 4.0 Należy obsłużyć dane autoryzacji przekazywane przez użytkownika
+:white_check_mark: 4.0 Należy obsłużyć dane autoryzacji przekazywane przez użytkownika [Link do commita](https://github.com/mario343/proj-obiektowe/commit/cbad346936cbc1a5d4ad4bb3d6c038f4b66f5dc9)
 
 :x: 4.5 Należy wstrzyknąć singleton do głównej klasy via @Autowired
 
@@ -60,3 +60,5 @@ formie eager
 lazy
 
 Kod: 03-springboot
+
+[DEMO](https://github.com/mario343/proj-obiektowe/blob/main/demos/zadanie3.gif)
