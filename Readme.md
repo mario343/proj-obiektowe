@@ -39,24 +39,24 @@ Kod: 02-php
 
 [DEMO](https://github.com/mario343/proj-obiektowe/blob/main/demos/zadanie2.gif)
 
-**Zadanie 3** Kotlin
+**Zadanie 3** Springboot - Kotlin
 
-Proszę stworzyć prosty serwis do autoryzacji, który zasymuluj autoryzację użytkownika za pomocą przesłanej nazwy użytkownika oraz
+Proszę stworzyć prosty serwis do autoryzacji, który zasymuluje autoryzację użytkownika za pomocą przesłanej nazwy użytkownika oraz
 hasła. Serwis powinien zostać wstrzyknięty do kontrolera za pomocą anotacji @Autowired. Aplikacja ma oczywiście zawierać jeden kontroler
 i powinna zostać napisana w języku Kotlin. Oparta powinna zostać na frameworku Spring Boot, podobnie jak na zajęciach. Serwis do
 autoryzacji powinien być singletonem.
 
-:x: 3.0 Należy stworzyć jeden kontroler wraz z danymi wyświetlanymi z
+:white_check_mark: 3.0 Należy stworzyć jeden kontroler wraz z danymi wyświetlanymi z
 listy na endpoint’cie w formacie JSON - Kotlin + Spring Boot
 
-:x: 3.5 Należy stworzyć klasę do autoryzacji (mock) jako Singleton w
+:white_check_mark: 3.5 Należy stworzyć klasę do autoryzacji (mock) jako Singleton w
 formie eager
 
-:x: 4.0 Należy obsłużyć dane autoryzacji przekazywane przez użytkownika
+:white_check_mark: 4.0 Należy obsłużyć dane autoryzacji przekazywane przez użytkownika
 
 :x: 4.5 Należy wstrzyknąć singleton do głównej klasy via @Autowired
 
 :x: 5.0 Obok wersji Eager do wyboru powinna być wersja Singletona w wersji
 lazy
 
-Kod: 03-kotlin
+Kod: 03-springboot
