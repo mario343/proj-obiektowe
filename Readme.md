@@ -88,3 +88,51 @@ zewnętrznego podczas zapytania do naszego kontrolera
 Kod: 04-go
 
 [DEMO](https://github.com/mario343/proj-obiektowe/blob/main/demos/zadanie4.gif)
+
+**Zadanie 5** React
+
+Wszystkie wymagania do oceny 4.0 zostały spełnione. Proszę zobaczyć repozytorium z ebiznesu:
+[To zadanie zostało wykonane tutaj](https://github.com/mario343/ebiznes/tree/main/05-react-06-tests)
+[Pełny opis zadania można znaleźć tutaj](https://github.com/mario343/ebiznes/blob/main/README.md)
+
+**Zadanie 6** Sonar
+
+Wszystkie wymagania do oceny 5.0 zostały spełnione. Proszę zobaczyć repozytorium z ebiznesu:
+
+[To zadanie zostało wykonane tutaj](https://github.com/mario343/ebiznes/tree/main/05-react-06-tests) oraz [tutaj](https://github.com/mario343/ebiznes/tree/main/07-sonar)
+[Pełny opis zadania można znaleźć tutaj](https://github.com/mario343/ebiznes/blob/main/README.md)
+
+:white_check_mark: 3.0 Należy dodać eslint w hookach gita. [Link do commita](https://github.com/mario343/ebiznes/commit/3cc44a3bdace0e4cdf0594c0506c08f1fe12fd51)
+
+:white_check_mark: 3.5 Należy wyeliminować wszystkie bugi w kodzie w Sonarze (kod
+aplikacji klienckiej) [Link do commita](https://github.com/mario343/ebiznes/commit/d2f2ee71a57857f69262341fd0449b3fc4184204)
+
+:white_check_mark: 4.0 Należy wyeliminować wszystkie zapaszki w kodzie w Sonarze (kod
+aplikacji klienckiej) [Link do commita](https://github.com/mario343/ebiznes/commit/d2f2ee71a57857f69262341fd0449b3fc4184204)
+
+:white_check_mark: 4.5 Należy wyeliminować wszystkie podatności oraz błędy bezpieczeństwa
+w kodzie w Sonarze (kod aplikacji klienckiej) [Link do commita](https://github.com/mario343/ebiznes/commit/d2f2ee71a57857f69262341fd0449b3fc4184204)
+
+:white_check_mark: 5.0 Zredukować duplikaty kodu do 0% [Link do commita](https://github.com/mario343/ebiznes/commit/d2f2ee71a57857f69262341fd0449b3fc4184204)
+
+FRONTEND
+
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=mario343_frontend)](https://sonarcloud.io/summary/new_code?id=mario343_frontend)
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=mario343_frontend&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=mario343_frontend)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=mario343_frontend&metric=bugs)](https://sonarcloud.io/summary/new_code?id=mario343_frontend)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=mario343_frontend&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=mario343_frontend)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=mario343_frontend&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=mario343_frontend)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=mario343_frontend&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=mario343_frontend)
+
+BACKEND
+
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=mario343_backend)](https://sonarcloud.io/summary/new_code?id=mario343_backend)
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=mario343_backend&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=mario343_backend)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=mario343_backend&metric=bugs)](https://sonarcloud.io/summary/new_code?id=mario343_backend)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=mario343_backend&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=mario343_backend)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=mario343_backend&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=mario343_backend)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=mario343_backend&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=mario343_backend)
+
+[DEMO](https://github.com/mario343/ebiznes/blob/main/demos/zadanie7.gif)
