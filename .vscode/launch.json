@@ -1,0 +1,22 @@
+{
+  "configurations": [
+    {
+      "type": "swift",
+      "request": "launch",
+      "args": [],
+      "cwd": "${workspaceFolder:proj-obiektowe}/07-vapor/task7",
+      "name": "Debug Run (07-vapor/task7)",
+      "program": "${workspaceFolder:proj-obiektowe}/07-vapor/task7/.build/debug/Run",
+      "preLaunchTask": "swift: Build Debug Run (07-vapor/task7)"
+    },
+    {
+      "type": "swift",
+      "request": "launch",
+      "args": [],
+      "cwd": "${workspaceFolder:proj-obiektowe}/07-vapor/task7",
+      "name": "Release Run (07-vapor/task7)",
+      "program": "${workspaceFolder:proj-obiektowe}/07-vapor/task7/.build/release/Run",
+      "preLaunchTask": "swift: Build Release Run (07-vapor/task7)"
+    }
+  ]
+}

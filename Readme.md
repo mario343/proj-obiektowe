@@ -136,3 +136,22 @@ BACKEND
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=mario343_backend&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=mario343_backend)
 
 [DEMO](https://github.com/mario343/ebiznes/blob/main/demos/zadanie7.gif)
+
+**Zadanie 7** Vapor (swift)
+
+Proszę napisać prostą aplikację w Vaporze, wykorzystując Leaf jako
+silnik szablonów or Fluent jako ORM. Proszę stworzyć trzy modele oraz
+CRUD dla każdego z nich. Należy stworzyć model z minimum jedną
+relacją. CRUD powinien mieć odzwierciedlenie w szablonach.
+
+:white_check_mark: 3.0 Należy stworzyć kontroler wraz z modele Produktów zgodny z CRUD w
+ORM Fluent. [Link do commita]()
+
+:white_check_mark: 3.5 Należy stworzyć szablony w Leaf. [Link do commita]()
+
+:x: 4.0 Należy stworzyć drugi model oraz kontroler Kategorii wraz z
+relacją. [Link do commita]()
+
+:x: 4.5 Należy wykorzystać Redis do przechowywania danych. [Link do commita]()
+
+:x: 5.0 Wrzucić aplikację na heroku. [Link do commita]()

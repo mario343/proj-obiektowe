@@ -1,0 +1,55 @@
+.product-list {
+  list-style: none;
+  padding: 0;
+}
+
+.product-item {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 1em;
+  margin-bottom: 1em;
+  background-color: #f9f9f9;
+}
+
+.product-item a {
+  font-weight: bold;
+  font-size: 1.1em;
+  color: #007bff;
+  text-decoration: none;
+}
+
+.product-item a:hover {
+  text-decoration: underline;
+}
+
+.product-price {
+  color: #333;
+  margin-left: 0.5em;
+}
+
+.product-description {
+  margin-top: 0.5em;
+  color: #555;
+  margin-left: 1em;
+}
+
+.product-actions {
+  margin-top: 0.75em;
+}
+
+.product-actions form {
+  display: inline;
+}
+
+.product-actions button {
+  background-color: #dc3545;
+  color: white;
+  border: none;
+  padding: 0.4em 0.8em;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.product-actions button:hover {
+  background-color: #c82333;
+}

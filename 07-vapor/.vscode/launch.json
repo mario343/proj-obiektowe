@@ -1,0 +1,40 @@
+{
+  "configurations": [
+    {
+      "type": "swift",
+      "request": "launch",
+      "args": [],
+      "cwd": "${workspaceFolder:task7}",
+      "name": "Debug task7",
+      "program": "${workspaceFolder:task7}/.build/debug/task7",
+      "preLaunchTask": "swift: Build Debug task7"
+    },
+    {
+      "type": "swift",
+      "request": "launch",
+      "args": [],
+      "cwd": "${workspaceFolder:task7}",
+      "name": "Release task7",
+      "program": "${workspaceFolder:task7}/.build/release/task7",
+      "preLaunchTask": "swift: Build Release task7"
+    },
+    {
+      "type": "swift",
+      "request": "launch",
+      "args": [],
+      "cwd": "${workspaceFolder:task7}",
+      "name": "Debug Run",
+      "program": "${workspaceFolder:task7}/.build/debug/Run",
+      "preLaunchTask": "swift: Build Debug Run"
+    },
+    {
+      "type": "swift",
+      "request": "launch",
+      "args": [],
+      "cwd": "${workspaceFolder:task7}",
+      "name": "Release Run",
+      "program": "${workspaceFolder:task7}/.build/release/Run",
+      "preLaunchTask": "swift: Build Release Run"
+    }
+  ]
+}
