@@ -159,3 +159,27 @@ relacją. [Link do commita]()
 Kod: 07-vapor
 
 [DEMO](https://github.com/mario343/proj-obiektowe/blob/main/demos/zadanie7.gif)
+
+**Zadanie 8** Testy
+
+Proszę pamiętać o stworzeniu darmowego konta via
+https://education.github.com/pack.
+
+:white_check_mark: 3.0 Należy stworzyć 30 przypadków testowych w Pythonie w WebDriverze [Link do commita](https://github.com/mario343/proj-obiektowe/commit/00c9268da6ec0ce597c4f6acd42ab213b56035b8)
+
+:white_check_mark: 3.5 Należy rozszerzyć testy funkcjonalne, aby zawierały minimum 100
+asercji [Link do commita](https://github.com/mario343/proj-obiektowe/commit/00c9268da6ec0ce597c4f6acd42ab213b56035b8)
+
+:x: 4.0 Należy stworzyć testy jednostkowe do wybranego wcześniejszego
+projektu z minimum 100 asercjami [Link do commita]()
+
+:x: 4.5 Należy dodać testy API, należy pokryć wszystkie endpointy z
+minimum jednym scenariuszem negatywnym per endpoint[Link do commita]()
+
+:x: 5.0 Należy uruchomić testy funkcjonalne na Browserstacku na urządzeniu
+mobilnym [Link do commita]()
+
+Kod: 08-tests
+[Link do commita ze zmianą nazwy](https://github.com/mario343/proj-obiektowe/commit/2be946c2a448caf0b4ba8804679df6bbbaacfdc0)
+
+[DEMO](https://github.com/mario343/proj-obiektowe/blob/main/demos/zadanie8.gif)
