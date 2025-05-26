@@ -145,9 +145,9 @@ CRUD dla każdego z nich. Należy stworzyć model z minimum jedną
 relacją. CRUD powinien mieć odzwierciedlenie w szablonach.
 
 :white_check_mark: 3.0 Należy stworzyć kontroler wraz z modele Produktów zgodny z CRUD w
-ORM Fluent. [Link do commita]()
+ORM Fluent. [Link do commita](https://github.com/mario343/proj-obiektowe/commit/1f77b9ed1f4da7a85b909df0dd2233d6d01ad4c4)
 
-:white_check_mark: 3.5 Należy stworzyć szablony w Leaf. [Link do commita]()
+:white_check_mark: 3.5 Należy stworzyć szablony w Leaf. [Link do commita](https://github.com/mario343/proj-obiektowe/commit/1f77b9ed1f4da7a85b909df0dd2233d6d01ad4c4)
 
 :x: 4.0 Należy stworzyć drugi model oraz kontroler Kategorii wraz z
 relacją. [Link do commita]()
@@ -155,3 +155,5 @@ relacją. [Link do commita]()
 :x: 4.5 Należy wykorzystać Redis do przechowywania danych. [Link do commita]()
 
 :x: 5.0 Wrzucić aplikację na heroku. [Link do commita]()
+
+Kod: 07-vapor
