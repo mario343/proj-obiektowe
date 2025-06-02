@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">09-android</string>
+    <string name="product_activity_label">Products</string>
+    <string name="cart_activity_label">Shopping Cart</string>
+</resources>

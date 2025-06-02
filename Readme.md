@@ -183,3 +183,22 @@ Kod: 08-tests
 [Link do commita ze zmianą nazwy](https://github.com/mario343/proj-obiektowe/commit/2be946c2a448caf0b4ba8804679df6bbbaacfdc0)
 
 [DEMO](https://github.com/mario343/proj-obiektowe/blob/main/demos/zadanie8.gif)
+
+**Zadanie 9** Android
+
+Należy stworzyć prostą aplikację w Kotlinie z kilkoma widokami.
+Należy:
+
+:white_check_mark: 3.0 stworzyć listę kategorii oraz produktów [Link do commita]()
+
+:white_check_mark: 3.5 dodać widok koszyka [Link do commita]()
+
+:x: 4.0 stworzyć bazę w Realmie [Link do commita]()
+
+:x: 4.5 dodać płatności w Stripe[Link do commita]()
+
+:x: 5.0 dodać logowanie i rejestrację via Oauth2 [Link do commita]()
+
+Kod: 09-android
+
+[DEMO](https://github.com/mario343/proj-obiektowe/blob/main/demos/zadanie9.gif)
