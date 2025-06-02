@@ -189,9 +189,9 @@ Kod: 08-tests
 Należy stworzyć prostą aplikację w Kotlinie z kilkoma widokami.
 Należy:
 
-:white_check_mark: 3.0 stworzyć listę kategorii oraz produktów [Link do commita]()
+:white_check_mark: 3.0 stworzyć listę kategorii oraz produktów [Link do commita](https://github.com/mario343/proj-obiektowe/commit/2ea15e9f72e673296190f5f53cfef4beebb91d4a)
 
-:white_check_mark: 3.5 dodać widok koszyka [Link do commita]()
+:white_check_mark: 3.5 dodać widok koszyka [Link do commita](https://github.com/mario343/proj-obiektowe/commit/2ea15e9f72e673296190f5f53cfef4beebb91d4a)
 
 :x: 4.0 stworzyć bazę w Realmie [Link do commita]()
 
